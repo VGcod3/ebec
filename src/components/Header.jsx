@@ -24,11 +24,8 @@ const Header = () => {
             className="flex justify-between items-center p-4 shadow-sm backdrop-filter backdrop-blur-lg  w-full z-20 fixed text-white"
         >
             <div className="flex items-center">
-                {/* <Text as="h2" className="text-4xl font-extrabold">
-                    { "</>" }
-                </Text> */}
 
-                <img src="/public/logo.png" alt="Logo" className="h-10 ml-6" />
+                <img src="/logo.png" alt="Logo" className="h-10 ml-6" />
                 <h1 className="mx-5 text-2xl font-bold">ЄБЕЦ
                     <span className='text-gold'>
                         IT
